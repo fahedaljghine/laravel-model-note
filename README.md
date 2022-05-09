@@ -203,16 +203,6 @@ You can change the column name used in the notes table (`model_id` by default) w
 changed
 that. In that case, simply change the `model_primary_key_attribute` key of the `model-note` config file.
 
-### Testing
-
-This package contains integration tests that are powered
-by [orchestral/testbench](https://github.com/orchestral/testbench).
-
-You can run all tests with:
-
-```bash
-composer test
-```
 
 ### Changelog
 
