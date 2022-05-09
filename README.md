@@ -17,10 +17,9 @@ $lastNote = $model->lastNote(); // returns an instance of \Fahedaljghine\ModelNo
 
 ```
 
-## Hire Me
+## Contact Me
 
-You can hire me to help you get your business online, consulting, conflict solving, building up your development team
-and whatever you need for a web solutions. You can check all of my information
+You can check all of my information
 by [Checking my website](https://fahedaljghine.com/).
 
 ## Installation
