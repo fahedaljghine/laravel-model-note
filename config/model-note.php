@@ -5,7 +5,7 @@ return [
     /*
      * The class name of the status model that holds all statuses.
      *
-     * The model must be or extend `Fahedaljghine\ModelNotes\Note`.
+     * The model must be or extend `Fahedaljghine\ModelNote\Note`.
      */
     'note_model' => Fahedaljghine\ModelNote\Note::class,
 
