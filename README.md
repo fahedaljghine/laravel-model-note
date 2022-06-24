@@ -208,6 +208,9 @@ that. In that case, simply change the `model_primary_key_attribute` key of the `
 
 Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
 
+## Dontae
+ - [Paypal](https://www.paypal.com/donate/?hosted_button_id=MSKWTL27YPFDW)
+ 
 ## Contributing
 
 You are welcome to contribute
